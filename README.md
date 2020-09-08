@@ -4,7 +4,8 @@
  uses User input variable to fill URI <BR>
  URI is launched and parced <BR>
  Results are on screen <BR>
-
+ <BR>
+Works with IPv4 and IPv6 addresses. <BR>
 <BR><BR>
 Sample 1:
 <BR>
