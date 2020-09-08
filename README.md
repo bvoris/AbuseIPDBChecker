@@ -9,7 +9,7 @@ Works with IPv4 and IPv6 addresses. <BR>
 <BR><BR>
 Sample 1:
 <BR>
-<IMG SRC="https://github.com/bvoris/AbuseIPDBChecker/blob/master/screenshot1.PNG"> <BR>
+<IMG SRC="https://github.com/bvoris/AbuseIPDBChecker/blob/master/screenshot1.PNG" width=75% height=75%> <BR>
 Sample 2:
 <BR>
 <IMG SRC="https://github.com/bvoris/AbuseIPDBChecker/blob/master/screenshot2.PNG"> <BR>
