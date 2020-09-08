@@ -12,4 +12,4 @@ Sample 1:
 <IMG SRC="https://github.com/bvoris/AbuseIPDBChecker/blob/master/screenshot1.PNG" width=75% height=75%> <BR>
 Sample 2:
 <BR>
-<IMG SRC="https://github.com/bvoris/AbuseIPDBChecker/blob/master/screenshot2.PNG"> <BR>
+<IMG SRC="https://github.com/bvoris/AbuseIPDBChecker/blob/master/screenshot2.PNG" width=75% height=75%> <BR>
