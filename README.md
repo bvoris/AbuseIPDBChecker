@@ -1,5 +1,14 @@
 # AbuseIPDBChecker
  Create by Brad Voris <BR>
+ 
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/AbuseIPDBChecker">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/AbuseIPDBChecker">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/AbuseIPDBChecker/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/AbuseIPDBChecker">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/AbuseIPDBChecker">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/AbuseIPDBChecker">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/AbuseIPDBChecker">
+
  Requests user input for IP address <BR>
  uses User input variable to fill URI <BR>
  URI is launched and parced <BR>
