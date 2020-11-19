@@ -1,6 +1,5 @@
 # AbuseIPDBChecker
  Create by Brad Voris <BR>
- 
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/AbuseIPDBChecker">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/AbuseIPDBChecker">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/AbuseIPDBChecker/total">
